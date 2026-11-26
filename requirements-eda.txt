@@ -1,0 +1,15 @@
+# Core stack for the EDA practical workbook
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyterlab
+
+# Optional extensions for later modules
+statsmodels
+duckdb
+polars
+pyarrow
+pandera

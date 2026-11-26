@@ -1,0 +1,3 @@
+finding,evidence,risk,next_step
+В данных есть повторные customer-month ключи,duplicate key audit,повторное взвешивание наблюдений,установить правило дедупликации по журналу источника
+Целевая метка последнего месяца не созрела,missing target by snapshot_month,смещение оценки churn rate,исключать незрелые окна или дождаться меток
